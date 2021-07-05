@@ -16,7 +16,7 @@ nav>ul>li{
 nav>ul>li:hover{
     background-color: rgba(209, 234, 255, 0.774);
 }
-nav>ul>li:active{
+nav>ul>li:active,.link-active{
     border-left: 2px solid blue;
     background-color: rgba(209, 234, 255, 0.774);
 }
